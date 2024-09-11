@@ -48,6 +48,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Acknowledgments
 
 - Original Tetris game concept by Alexey Pajitnov
+- AtTiny Tetris game by Jonathan Foucher https://github.com/jfoucher
 - AtTiny85 microcontroller and related resources by SparkFun Electronics
 - OLED display and related libraries by Adafruit and others
 - Arduino community and resources for support and inspiration
