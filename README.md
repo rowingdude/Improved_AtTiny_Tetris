@@ -24,12 +24,12 @@ Please note, this is not tested on a real board, I have been using TinkerCAD and
 Connect your Tiny85 as follows:
 
 ```
-+-------+
-| 1   8 |---- VCC
-| 2   7 |---- SCL (OLED)
-| 3   6 |---- SDA (OLED)
-| 4   5 |---- Rotate Button
-+-------+
+//                                                    +-------+                                               //
+//                                           Drop ----| 1   8 |---- VCC                                       //
+//                                     Left Button ---| 2   7 |---- SCL (OLED)                                //
+//                                    Right Button ---| 3   6 |---- SDA (OLED)                                //
+//                                             GND ---| 4   5 |---- Rotate Button                             //
+//                                                    +-------+                                               //
 ```
 
 ## Usage
